@@ -1,4 +1,4 @@
-<h1>Hardhat Test of Voting Project</h1>
+<h1>Hardhat Test of Voting Project</h1> <h5>by Ayoub Benouda</h5>
 
 In this Javascript, we have tested the voting smart contract with Hardhat environment.
 
