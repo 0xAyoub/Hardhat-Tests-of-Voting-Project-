@@ -1,4 +1,4 @@
-<h1>Hardhat Test of Voting Project</h1> <h5>by Ayoub Benouda</h5>
+<h1>Hardhat Test of Voting Project</h1> 
 
 In this Javascript, we have tested the voting smart contract with Hardhat environment.
 
@@ -13,3 +13,5 @@ I tested in this JavaScript script:
 - The "endVotingSession" function
 - the "tallyVotes" function
 - and the Workflow status
+
+<h5>by Ayoub Benouda</h5>
