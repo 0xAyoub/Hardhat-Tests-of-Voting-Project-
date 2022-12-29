@@ -14,4 +14,4 @@ I tested in this JavaScript script:
 - the "tallyVotes" function
 - and the Workflow status
 
-<h5>by Ayoub Benouda</h5>
+<h5>by Ayoub Benouda.</h5>
